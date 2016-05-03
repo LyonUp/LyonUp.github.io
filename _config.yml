@@ -18,10 +18,10 @@ twitter_username: #gaohaoyang126
 facebook_username: #gaohaoyang.water
 github_username:  LyonUp
 email: lyon.lh@foxmail.com
-weibo_username: 程序猿与攻城狮是我
-zhihu_username: 李航
+weibo_username: 15270890953
+zhihu_username: li-hang-55-41
 
-description_footer: 本站记录我前端之旅的沿途风景！
+description_footer: 各类社交帐号
 
 # comments
 # two ways to comment, only choose one, and use your own short name
@@ -33,7 +33,7 @@ disqus_shortname: ah_LiHang
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
-baidu_tongji_id: cf8506e0ef223e57ff6239944e5d46a4
+baidu_tongji_id: a580d6ec34d74820c21a45ace1135b41
 google_analytics_id: UA-77281838-1 # google 分析追踪id
 
 # Build settings
