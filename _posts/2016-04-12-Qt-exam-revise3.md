@@ -2,7 +2,7 @@
 layout: post
 title:  "QT考试复习3"
 date:   2016-04-12 14:14:54
-categories: Qt
+categories: exam
 tags: C++ Qt md
 author: Lyon
 ---
