@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "QT考试复习3"
+title:  "QT考试复习2"
 date:   2016-04-12 14:14:54
 categories: exam
 tags: C++ Qt md
