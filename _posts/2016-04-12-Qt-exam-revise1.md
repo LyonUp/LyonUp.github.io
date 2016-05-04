@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "QT考试复习1"
-date:   2016-04-12 15:14:54
+date:   2016-04-12 06:14:54
 categories: jekyll
 tags: C++ Qt md
 author: Lyon
