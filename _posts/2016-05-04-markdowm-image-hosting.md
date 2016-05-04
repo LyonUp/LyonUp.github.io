@@ -9,7 +9,6 @@ author: Lyon
 * content
 {:toc}
 
-# Markdown中插入图片
 
 我使用的md编辑器是**Typora**，它可以简化很多markdown语法*（这里得吐槽一下Table语法）*
 
@@ -21,7 +20,7 @@ author: Lyon
 
 
 
-
+# Markdown中插入图片
 
 我第一时间想到的是GitHub的仓库
 
