@@ -7,7 +7,7 @@ tags: C++ Qt md
 author: Lyon
 ---
 * content
-  {:toc}
+{:toc}
 
 # C++基础
 
