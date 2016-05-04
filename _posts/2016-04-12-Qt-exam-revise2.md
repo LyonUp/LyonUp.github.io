@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "QT考试复习"
-date:   2016-04-12 17:14:54
+title:  "QT考试复习2"
+date:   2016-04-12 9:14:54
 categories: Qt
 tags: C++ Qt md
 author: Lyon
