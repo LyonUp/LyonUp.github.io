@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "QT考试复习"
-date:   2016-05-12 17:14:54
+date:   2016-04-12 17:14:54
 categories: Qt
 tags: C++ Qt md
+author: Lyon
 ---
 * content
-  {:toc}
+{:toc}
 
 # C++基础
 
