@@ -6,7 +6,7 @@ icon: heart
 ---
 
 * content
-  {:toc}
+{:toc}
 
 ## 关于我
 

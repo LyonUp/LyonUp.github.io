@@ -6,7 +6,7 @@ icon: bookmark
 ---
 
 * content
-  {:toc}
+{:toc}
 
 ## 学习网站
 
