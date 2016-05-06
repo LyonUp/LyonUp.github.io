@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "QT考试复习2"
+title:  "QT考试复习（二）"
 date:   2016-04-12 14:14:54
 categories: exam
-tags: C++ Qt 
+tags: Qt 
 author: Lyon
 ---
 * content
 {:toc}
-面向某次考试给同学们做的复习资料
+面向某次考试给同学们做的复习资料，这部分是针对于Qt编程，Qt的内容就只是涉及了考试要考的知识点，比较简单，放博客暂时凑文章数，目前算放个坑，以后会针对Qt写一些详细的博客。
 
 
 
