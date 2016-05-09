@@ -2,8 +2,8 @@
 layout: post
 title:  "QT考试复习（二）"
 date:   2016-04-12 14:14:54
-categories: exam
-tags: Qt 
+categories: 学习
+tags: QT考试复习 Qt 
 author: Lyon
 ---
 * content

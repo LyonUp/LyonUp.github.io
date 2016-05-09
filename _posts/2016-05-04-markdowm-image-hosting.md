@@ -2,8 +2,8 @@
 layout: post
 title:  "在markdown中优雅的插入图片"
 date:   2016-05-04 21:20:18 +0800
-categories: markdown
-tags: MarkDown Typora ImageHosting ZhiHu
+categories: 技巧
+tags: MarkDown Typora ImageHosting 
 author: Lyon
 ---
 * content
