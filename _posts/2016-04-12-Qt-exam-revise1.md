@@ -2,8 +2,8 @@
 layout: post
 title:  "QT考试复习（一）"
 date:   2016-04-12 06:14:54
-categories: 学习
-tags: QT考试复习 C++ 
+categories: exam
+tags: Qt考试 C++ 
 author: Lyon
 ---
 * content
