@@ -34,7 +34,7 @@ author: Lyon
 2. 目标网站的特点
    - 信息未隐藏 **（ctrl + u查看源代码后 发现数据就在里面)**
 3. 选择合适的架构
-   - 鉴于还不知道有哪些框架 这里采用BeautifulSoup来解析HUML源码
+   - 鉴于还不知道有哪些框架 这里采用BeautifulSoup来解析HTML源码
 
 
 
