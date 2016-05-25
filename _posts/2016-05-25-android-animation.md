@@ -16,4 +16,4 @@ Gif图测试
 
 
 
- ![test](C:\Users\Administrator\Downloads\test.gif)
+![](http://i4.buimg.com/c5c8721cafc9c8e4.gif)
