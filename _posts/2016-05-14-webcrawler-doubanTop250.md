@@ -124,11 +124,11 @@ def download_page(url):
 
 
 
-![](http://i3.buimg.com/71a3bce4f4086063.png)
+![](http://i4.buimg.com/bdd2804db7955f74.png)
 
 在【后页】点击【检查】，在开发者工具可以看到了以下界面：
 
-![](http://i3.buimg.com/9fcf891900b4b3d7.png)
+![](http://i4.buimg.com/1f08742c1fdce852.png)
 
 也就是 span  calss='next'   -> a href ,于是有了下面的代码：
 
