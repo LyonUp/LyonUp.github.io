@@ -13,7 +13,7 @@ icon: heart
 
 
 ## 关于我
- 
+
 
 
 ## 联系我
@@ -23,7 +23,7 @@ icon: heart
 
 - [segmentfault](https://segmentfault.com/u/lyonup)
 
-- [微博](https://weibo.com/3207861813/profile?topnav=1&wvr=6)
+- [微博](https://weibo.com/3207861813/profile)
 
 - [知乎](https://www.zhihu.com/people/li-hang-55-41)
 
