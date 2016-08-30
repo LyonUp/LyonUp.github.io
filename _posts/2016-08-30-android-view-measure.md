@@ -8,7 +8,8 @@ author: Lyon
 ---
 * content
 {:toc}
-  在绘制View之前，我们必须知道它的大小和位置，Android系统在绘制View之前，正是通过onMeasure()方法进行对View的测量。
+
+在绘制View之前，我们必须知道它的大小和位置，Android系统在绘制View之前，正是通过onMeasure()方法进行对View的测量。
 
 
 
